@@ -1,0 +1,23 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "allowJs": true,
+        "sourceMap": true,
+        "removeComments": true,
+        "outDir": "./dist/js",
+        "outFile": "./dist/js/Main.js",
+        "typeRoots": [
+            "./typings"
+        ]
+    },
+    "typeRoots": [
+        "./typings"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist/",
+        "bin/"
+    ]
+}

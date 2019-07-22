@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,238">
+  <displayList>
+    <image id="n0_s46p" name="bg" src="x9kij" fileName="imgs/zhuanpan_tanchu.png" xy="0,0" locked="true"/>
+    <loader id="n3_s46p" name="img" xy="83,50" pivot="0.5,0.5" size="118,137"/>
+    <component id="n6_s46p" name="btn_next" src="s46pm" fileName="btn_next.xml" xy="340,78"/>
+  </displayList>
+</component>

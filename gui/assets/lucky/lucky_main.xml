@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1440,810" adaptationTest="FitSize">
+  <controller name="c1" pages="0,start,1,running" selected="0"/>
+  <displayList>
+    <image id="n0_ynxi" name="background" src="x9ki2" fileName="bg.jpg" xy="0,2" locked="true"/>
+    <image id="n8_ynxi" name="bg0" src="x9kig" fileName="imgs/wood.png" xy="217,98" group="n9_ynxi" locked="true"/>
+    <image id="n1_ynxi" name="bg1" src="x9ki1" fileName="imgs/backg.png" xy="217,98" group="n9_ynxi" locked="true"/>
+    <image id="n2_ynxi" name="bg2" src="x9ki5" fileName="imgs/chose.png" xy="217,98" group="n9_ynxi" locked="true"/>
+    <image id="n6_ynxi" name="rainbow_s" src="x9kid" fileName="imgs/Rainbow.png" xy="277,138" group="n9_ynxi"/>
+    <image id="n7_ynxi" name="rainbow_a" src="x9kic" fileName="imgs/Rainbow_effect.png" xy="266,128" group="n9_ynxi"/>
+    <component id="n3_ynxi" name="btn_start" src="s46pn" fileName="btnStart.xml" xy="392,258" group="n9_ynxi"/>
+    <image id="n4_ynxi" name="light0" src="x9ki7" fileName="imgs/Coloured-lights1.png" xy="219,96" group="n9_ynxi" locked="true"/>
+    <image id="n5_ynxi" name="light1" src="x9ki8" fileName="imgs/Coloured-lights2.png" xy="219,96" group="n9_ynxi" locked="true"/>
+    <image id="n10_ynxi" name="effect_light" src="x9kif" fileName="imgs/turnTabel_light.png" xy="217,98" group="n9_ynxi"/>
+    <image id="n11_ynxi" name="effect_sign" src="x9kib" fileName="imgs/question-mark.png" xy="217,98" group="n9_ynxi"/>
+    <group id="n9_ynxi" name="group_main" xy="217,96" size="555,532"/>
+  </displayList>
+</component>

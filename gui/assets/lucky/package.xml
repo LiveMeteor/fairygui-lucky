@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r0owix15" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="x9ki0" name="back.png" path="/imgs/"/>
+    <image id="x9ki1" name="backg.png" path="/imgs/"/>
+    <image id="x9ki2" name="bg.jpg" path="/"/>
+    <image id="x9ki3" name="bj_1080zhuanpan_2.jpg" path="/"/>
+    <image id="x9ki4" name="btn.png" path="/imgs/"/>
+    <image id="x9ki5" name="chose.png" path="/imgs/"/>
+    <image id="x9ki6" name="chuanpan_button1.png" path="/imgs/"/>
+    <image id="x9ki7" name="Coloured-lights1.png" path="/imgs/"/>
+    <image id="x9ki8" name="Coloured-lights2.png" path="/imgs/"/>
+    <image id="x9ki9" name="fanqian.png" path="/imgs/"/>
+    <image id="x9kia" name="light.png" path="/imgs/"/>
+    <image id="x9kib" name="question-mark.png" path="/imgs/"/>
+    <image id="x9kic" name="Rainbow_effect.png" path="/imgs/"/>
+    <image id="x9kid" name="Rainbow.png" path="/imgs/"/>
+    <image id="x9kie" name="turn_table_bg.jpg" path="/"/>
+    <image id="x9kif" name="turnTabel_light.png" path="/imgs/"/>
+    <image id="x9kig" name="wood.png" path="/imgs/"/>
+    <image id="x9kih" name="zhuanpan_but_answer.png" path="/imgs/"/>
+    <image id="x9kii" name="zhuanpan_but_next.png" path="/imgs/"/>
+    <image id="x9kij" name="zhuanpan_tanchu.png" path="/imgs/"/>
+    <component id="ynxik" name="lucky_main.xml" path="/" exported="true"/>
+    <component id="ynxil" name="lucky_result.xml" path="/" exported="true"/>
+    <component id="s46pm" name="btn_next.xml" path="/"/>
+    <component id="s46pn" name="btnStart.xml" path="/"/>
+  </resources>
+  <publish name="lucky"/>
+</packageDescription>
